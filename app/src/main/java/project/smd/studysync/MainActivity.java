@@ -8,6 +8,7 @@ import android.widget.TextView;
 public class MainActivity extends AppCompatActivity {
         Button B;
         TextView tv;
+        TextView tv2;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
