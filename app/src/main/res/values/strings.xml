@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">StudySync</string>
+    <string name="appName">Layouts</string>
+    <string name="actionSettings">Settings</string>
+    <string name="sidebar">Sidebar</string>
+    <string name="aboutDescription">StudySync is a community based notes sharing application. It provides the students a platform to share and get relevant course materials. The application is cloud based which means it\'s always updating with new material!</string>
 </resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <include
+        android:id="@+id/app_bar"
+        layout="@layout/app_bar_landing_page" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:text="SignUp Page - To Be Written"
+        android:textColor="@color/colorPrimary"
+        android:layout_centerInParent="true"
+        android:id="@+id/aaa"/>
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="100sp"
+        android:layout_height="100sp"
+        android:layout_above="@id/aaa"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="50sp"
+        app:srcCompat="@android:drawable/ic_menu_edit" />
+
+</RelativeLayout>
