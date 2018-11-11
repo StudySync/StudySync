@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "506334503890",
+    "firebase_url": "https://studysync-50edb.firebaseio.com",
+    "project_id": "studysync-50edb",
+    "storage_bucket": "studysync-50edb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506334503890:android:da2d9815df51ea48",
+        "android_client_info": {
+          "package_name": "project.smd.studysync"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "506334503890-1f7oicr2a8ft5arbrsmrl2c9in2evng7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnQwjGWchDc6IebL_0uNCtIVhGIgVO1cw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
